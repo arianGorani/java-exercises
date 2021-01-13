@@ -18,7 +18,7 @@ public class TIcTacToe {
             Scanner scan = new Scanner(System.in);
             System.out.println("Enter your placment (1-9):");
             int playerPos = scan.nextInt();
-            while (playerPositions.contains(playerPos) || cpuPositions.contains(playerPositions)) {
+            while (playerPositions.contains(playerPos) || cpuPositions.contains(playerPos)) {
                 System.out.println("Position taken! Enter a correct Pisition");
                 playerPos = scan.nextInt();
             }

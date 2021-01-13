@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TIcTacToe/TIcTacToe.iml" filepath="$PROJECT_DIR$/TIcTacToe/TIcTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intelliJ/intelliJ.iml" filepath="$PROJECT_DIR$/intelliJ/intelliJ.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-exercises.iml" filepath="$PROJECT_DIR$/.idea/java-exercises.iml" />
     </modules>
   </component>
