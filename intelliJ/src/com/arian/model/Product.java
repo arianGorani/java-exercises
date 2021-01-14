@@ -1,4 +1,4 @@
-package com.arian;
+package com.arian.model;
 
 public class Product {
     private String name;
